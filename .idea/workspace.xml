@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59c4e9a0-d1a4-4fd7-a2af-2c3c23cc9fee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/compose-multiplatform.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_aoe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_bin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_control.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_documents.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_exchange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_expand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_explorer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_find.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_find_computer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_find_document.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_find_internet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_find_people.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_folder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_folder_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_folder_options.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_ie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_measure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_minimize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_msdos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_my_computer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_network.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_notepad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_printer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_programs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_selected_pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_shutdown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/ic_volume.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/splash.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/drawable/winlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composeResources/win95.composeapp.generated.resources/font/W95FA.otf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Jcastaho"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Jcastaho/Win95versionWebURL.git",
+    "accountId": "e4f12ba5-50aa-44f8-86dc-1d4e29e851d3"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2r5TUtUOO4d9tcBYY4C3vBvQn3z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/david/OneDrive/Documentos/GitHub/Win95versionWebURL/composeResources/win95.composeapp.generated.resources/drawable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\david\OneDrive\Documentos\GitHub\Win95versionWebURL\composeResources\win95.composeapp.generated.resources\drawable" />
+      <recent name="C:\Users\david\OneDrive\Documentos\GitHub\Win95versionWebURL\composeResources\win95.composeapp.generated.resources\font" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\david\OneDrive\Documentos\GitHub\Win95versionWebURL\composeResources\win95.composeapp.generated.resources\drawable" />
+      <recent name="C:\Users\david\OneDrive\Documentos\GitHub\Win95versionWebURL\composeResources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59c4e9a0-d1a4-4fd7-a2af-2c3c23cc9fee" name="Changes" comment="" />
+      <created>1735847954702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735847954702</updated>
+    </task>
+    <servers />
+  </component>
+</project>
